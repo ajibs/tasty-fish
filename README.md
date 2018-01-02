@@ -11,7 +11,7 @@ Tasty fish was built with Reactjs.
 
 ## Getting Started
 Tasty-fish is hosted on Surge.sh and can be accessed here:
-- [Production](http://tasty-fish.surge.sh/)
+- [Production](https://tasty-fish.surge.sh/)
 
 
 ## Prerequisites
@@ -26,7 +26,7 @@ Tasty-fish is hosted on Surge.sh and can be accessed here:
 - [Node.js](https://nodejs.org/) - JS Runtime Environment
 - [Yarn](https://yarnpkg.com) - Package Manager
 - [Surge](https://surge.sh/) - Hosting
-- [Firebase](https://firebase.google.com) - Database
+- [Firebase](https://firebase.google.com) - Realtime Database
 - [VS Code](https://code.visualstudio.com/) - Code Editor
 - [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - Browser
 
